@@ -1,0 +1,20 @@
+package ejercicios;
+
+import java.util.Scanner;
+
+public class Ejercicio5 {
+
+	public static void main(String[] args) {
+		double num=0;
+		int numUs;
+		Scanner read=new Scanner(System.in);
+		num =Math.random()*100;
+		do {
+			System.out.println("¿El número que piensas es "+ (int)num + "?");
+			if (num==)
+			
+		}while (num<100);
+
+	}
+
+}
