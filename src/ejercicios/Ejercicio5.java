@@ -8,12 +8,10 @@ public class Ejercicio5 {
 		double num=0;
 		int numUs;
 		Scanner read=new Scanner(System.in);
-		num =Math.random()*100;
+		num =Math.random()*100+1;
 		do {
-			System.out.println("¿El número que piensas es "+ (int)num + "?");
-			if (num==)
-			
-		}while (num<100);
+			if (num)
+		}while ();
 
 	}
 
